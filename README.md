@@ -1,2 +1,2 @@
 # Background_Effect
-Background Effect for thr website
+Background Effect for the website
